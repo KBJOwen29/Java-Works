@@ -52,7 +52,3 @@ cd Java-Works
 ```
 
 Then navigate into the folder for the project you want and compile/run as above.
-
-## License
-
-No license specified yet.
