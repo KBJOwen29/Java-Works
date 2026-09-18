@@ -51,4 +51,4 @@ git clone https://github.com/KBJOwen29/Java-Works.git
 cd Java-Works
 ```
 
-Then navigate into the folder for the project you want and compile/run as above.
+Then navigate into the folder for the project you want and compile/run as above
